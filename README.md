@@ -1,33 +1,46 @@
-<h1 align="center">Hi 👋, I'm Srijita Mitra</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Srijita+Mitra" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijitamitra&label=Profile%20views&color=0e75b6&style=flat" alt="srijitamitra" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srijitamitra&label=Profile%20views&color=0e75b6&style=flat" alt="srijitamitra" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijitamitra" alt="srijitamitra" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=srijitamitra&margin-w=15&theme=flat&row=1&column=6" alt="srijitamitra" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Heredity System**
+---
 
-- 🌱 I’m currently learning **🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥️ Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙️ Generative AI Tools (AutoGen, CrewAI)**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Automated Student Helpdesk**
+- 🔭 I’m currently working on *Heredity System*
 
-- 🤝 I’m looking for help with **Resume Parser**
+- 🌱 I’m currently learning *🤖 Artificial Intelligence & Machine Learning - 🧠 Natural Language Processing (NER, Sentiment Analysis, LLMs) - 🧮 Data Science & Model Deployment - 🖥 Frontend Development (React.js, Streamlit, basic UI/UX) - ⚙ Generative AI Tools (AutoGen, CrewAI)*
+
+- 👯 I’m looking to collaborate on *Automated Student Helpdesk*
+
+- 🤝 I’m looking for help with *Resume Parser*
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/srijita-mitra-844a43274/](https://www.linkedin.com/in/srijita-mitra-844a43274/)
 
-- 💬 Ask me about **𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙉𝙇𝙋, 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄, 𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 𝙍𝙚𝙖𝙘𝙩𝙤𝙧𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`**
+- 💬 Ask me about *𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙉𝙇𝙋, 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙫𝙚 𝘼𝙄, 𝙈𝙤𝙙𝙚𝙡 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩, 𝙖𝙣𝙙 𝙗𝙚𝙜𝙞𝙣𝙣𝙚𝙧-𝙡𝙚𝙫𝙚𝙡 𝙍𝙚𝙖𝙘𝙩𝙤𝙧𝙎𝙩𝙧𝙚𝙖𝙢𝙡𝙞𝙩`*
 
-- 📫 How to reach me **srijitamitra635@gmail.com**
+- 📫 How to reach me *srijitamitra635@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mfPHNLG4CFMwrwawe3rzJVHeukNTUEDO/view?usp=sharing](https://drive.google.com/file/d/1mfPHNLG4CFMwrwawe3rzJVHeukNTUEDO/view?usp=sharing)
 
-- ⚡ Fun fact **I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄**
+- ⚡ Fun fact *I love building smart tools that "think," and I treat my AI agents like teammates 🤖😄*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srijita mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijita mitra" height="30" width="40" /></a>
 <a href="https://kaggle.com/srijitamitra2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srijitamitra2004" height="30" width="40" /></a>
-<a href="https://instagram.com/_srijita.mitra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_srijita.mitra_" height="30" width="40" /></a>
+<a href="https://instagram.com/_srijita.mitra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijita.mitra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@srijitamitra635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@srijitamitra635" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/srijita mitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srijita mitra" height="30" width="40" /></a>
 </p>
@@ -37,4 +50,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijitamitra&show_icons=true&locale=en&layout=compact" alt="srijitamitra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijitamitra&show_icons=true&locale=en" alt="srijitamitra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijitamitra&show_icons=true&locale=en" alt="srijitamitra" /></p>
+
+
+</p>
+
+<hr>
+<p align="center" style="font-family:monospace; font-size:16px;">
+  🛠️ Built with Passion, 🔬 Driven by Curiosity— <strong>Srijita Mitra</strong> | CSE @ IEM Kolkata 📍
+</p>
